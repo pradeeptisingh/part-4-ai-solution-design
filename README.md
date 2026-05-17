@@ -6,6 +6,10 @@ This repository contains an AI solution design for a healthcare business problem
 
 The solution uses the Healthcare entry from the AI use case reference catalog and connects the design to the provided business KPI sample.
 
+## Data Source
+
+Dataset source: https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
 ## Selected Use Case
 
 | Item | Choice |
